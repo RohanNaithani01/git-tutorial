@@ -2,6 +2,6 @@ package org.example;
 
 public class Change {
     static void main() {
-        System.out.printf("I misspell");
+        System.out.printf("I misspell version 2");
     }
 }

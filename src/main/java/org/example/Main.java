@@ -2,7 +2,7 @@ package org.example;
 
 public class Main {
     static void main() {
-        System.out.println("Hi This Is Version 1");
+        System.out.println("Hi This Is Version 2");
         IO.println(String.format("Hello and welcome!"));
 
         for (int i = 1; i <= 5; i++) {
